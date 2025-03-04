@@ -26,12 +26,13 @@ Key contributions:
 2. Resource Optimization: Ensures that resources for example personnel, tools, and infrustructure are used efficiently. It also reduces waste by allocating resources based on priority.
 3. Maintaining project scope prevents scope creep, which can lead to increased costs and project delays.
 
-   Strategies:
+   Strategies to prevent Project overruns:
 1. Establish a detailed budget and baseline costs.
 2. Implement cost-tracking tools and software.
 3. Conduct regular finanvial reviews and audits.
 4. Use forecasting techniques to predict and manage future expenses.
 5. Apply change control processes to evaluate the cost impact of changes.
+6. 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
